@@ -1,0 +1,36 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+nav {
+    background-color: rgb(84, 134, 243);
+    padding: 10px;
+    text-align: center;
+    height: 100px;
+}
+h1 {
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    padding: 5px;
+}
+h3 {
+    margin: 10px;
+    text-align: center;
+}
+.div {
+    text-align: center;
+}
+.imagem {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+}
+.imagem img {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
